@@ -1,2 +1,2 @@
-# stl files
+# Printing Guide
 Printing guide
