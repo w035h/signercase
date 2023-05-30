@@ -1,2 +1,2 @@
-# Freecad Model
-Freecad File info
+# FreeCAD Model
+FreeCAD File info
