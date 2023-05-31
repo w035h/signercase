@@ -1,5 +1,5 @@
 # Hi There 👋
-This is my version of a SeedSigner case. The camera is set to the side in order to make a lower profile possible.
+This is my version of a [SeedSigner](https://github.com/SeedSigner/seedsigner) case. The camera is set to the side in order to make a lower profile possible.
 
 Check out some more [images](/images/). 
 To print it yourself check the [printfiles](/printfiles). 
